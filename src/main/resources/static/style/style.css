@@ -1,0 +1,16 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+nav {
+    font-weight: bold;
+    border-bottom-color: red;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+}
+
+#footer{
+    background-color: red;
+    border-radius: 0;
+    padding: 50px;
+}
